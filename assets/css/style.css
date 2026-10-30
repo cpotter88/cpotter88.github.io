@@ -2,13 +2,13 @@
 /* --- 1. Variables (Modern Tech Palette) --- */
 :root {
     /* This template uses a professional "Modern Tech" color scheme. */
-    --primary-color: #1A2A4C;   /* Midnight Blue */
-    --secondary-color: #3D5A80; /* Slate Blue */
-    --accent-color: #29B6F6;    /* Vivid Sky Blue */
+    --primary-color: #1F6F5F;   /* Dark Green */
+    --secondary-color: #2FA084; /* Blue Green */
+    --accent-color: #6FCF97;    /* Light Green */
 
     /* --- Shared Variables (These usually don't need to change) --- */
     --light-bg-color: #F8F9FA;
-    --white-color: #ffffff;
+    --white-color: #EEEEEE;
     --dark-text-color: #343A40;
     --light-text-color: #6c757d;
     --card-bg-color: #ffffff;
